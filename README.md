@@ -6,16 +6,6 @@
 
 ---
 
-## 💼 Áreas de Atuação & Interesses
-
-- 👨‍💻 **Desenvolvimento Web** com foco em tecnologias modernas
-- 🎨 **UX/UI Design** centrado no usuário
-- 🌐 **Redes de Computadores**, infraestrutura e comunicação de dados
-- 🔐 **Tecnologias de Segurança e Criptografia**
-- 🤖 **Projetos de Automação e Sistemas Distribuídos**
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -34,11 +24,20 @@
 
 ---
 
-## 📜 Certificações
+## 📊 Estatísticas GitHub
 
-- 📡 **CCNA – Cisco Certified Network Associate**
-- 📶 **HCIA – Huawei Certified ICT Associate (Datacom)**
-- 💻 **Técnico de Redes de Computadores**
+![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcode23dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcode23dev&layout=compact&theme=radical)
+
+---
+
+## 💼 Áreas de Atuação & Interesses
+
+- 👨‍💻 **Desenvolvimento Web** com foco em tecnologias modernas
+- 🎨 **UX/UI Design** centrado no usuário
+- 🌐 **Redes de Computadores**, infraestrutura e comunicação de dados
+- 🔐 **Tecnologias de Segurança e Criptografia**
+- 🤖 **Projetos de Automação e Sistemas Distribuídos**
 
 ---
 
@@ -56,13 +55,6 @@
 - 📢 **Estágio ou oportunidade profissional** como UX Designer ou Web Developer
 - 🌐 Projetos open-source para contribuir com frontend ou redes
 - 🤝 Networking com profissionais da área de TI e engenharia
-
----
-
-## 📊 Estatísticas GitHub
-
-![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcode23dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcode23dev&layout=compact&theme=radical)
 
 ---
 
