@@ -61,8 +61,8 @@
 
 ## 📊 Estatísticas GitHub
 
-![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulocapemba&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocapemba&layout=compact&theme=radical)
+![Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pcode23dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcode23dev&layout=compact&theme=radical)
 
 ---
 
